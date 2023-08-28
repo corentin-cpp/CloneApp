@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uvSJCE83w4cjVNRDnot5IyGJx0bBbzH3LBgMz2w8ibgTjPu/XPDl3UkWp9/y/G2GG0W+QJkxl52kZMTfgCU02w==",
+  "success": true,
+  "projectFilePath": "H:\\Code\\C#\\Bureau\\Windows Forms\\CloneFileBackup\\CloneFileBackup.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Coren\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\Coren\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
